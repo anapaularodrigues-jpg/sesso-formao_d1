@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="km%fh+RjfsZfPid*]R2X">myImage</variable></variables><block type="device_forever" id="_dh`RJltqlH8DBLW%dW^" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="#1H2p,IGs0%n)XCnOFMK"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="):Q56nRwc+4EfOdwpLcU"><value name="pause"><shadow type="timePicker" id="w=R@LK8cdB+OEPmand*r"><field name="ms">100</field></shadow></value><next><block type="device_print_message" id="j7zJHa@Os)QID9JhZ%sQ"><value name="text"><shadow type="text" id="wC#O/Edq}x]*N73qz?u?"><field name="TEXT">Bem Vindos!</field></shadow></value><next><block type="device_pause" id="_P%*92/_9{H[0tL/k~E9"><value name="pause"><shadow type="timePicker" id="~+eDF7_Yn1.]x.ESm~/R"><field name="ms">100</field></shadow></value></block></next></block></next></block></next></block></statement></block></xml>
